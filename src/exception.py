@@ -1,5 +1,6 @@
 import sys
-import logging
+from src.logger import logging
+
 def error_message_detail(error,error_detail:sys):
     _,_,exc_tb=error_detail.exc_info() #inside the exc_tb the detail will be stored of where the error occured and all
     file_name=exc_tb.tb_frame.f_code.co_filename
