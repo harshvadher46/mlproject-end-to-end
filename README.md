@@ -1,3 +1,13 @@
+To run this app inside your laptop
+- clone the repo/download
+- create a virtual environment in your IDE(where you want to store the dependencies)
+- run this command('conda create -p venv python==3.8 -y')
+- conda activate venv/
+- now just run(pip install -r requirements.txt)
+- and here you go run(python run app.py)
+- go to your browser write(127.0.0.5000/predictdata)
+
+  
 1) Problem statement
 - This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
 
