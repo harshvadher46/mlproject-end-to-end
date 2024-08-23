@@ -2,7 +2,7 @@
 - This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
 
 => terms used
--Gender
+-Gender\n
 -parental_level_of_education
 -race_ethnicity: this term divides the student into different groups based on various educational and family background.
 -lunch:- the term used as the student will take lunch of which category before giving the exam whether it is standard or normal/free.
